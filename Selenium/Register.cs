@@ -46,6 +46,8 @@ namespace NUnitSeleniumCSharp.Selenium
 
             IWebElement RegisterButton = driver.FindElement(By.Id("register-button"));
             RegisterButton.Click();
+
+            Console.WriteLine("HI im akash the tester");
         }
 
         [TearDown]
