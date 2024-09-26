@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aaksh\\source\\repos\\NUnitSeleniumCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}|NUnitSeleniumCSharp.csproj|c:\\users\\aaksh\\source\\repos\\nunitseleniumcsharp\\datadriventesting\\testparamexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}|NUnitSeleniumCSharp.csproj|solutionrelative:datadriventesting\\testparamexcel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}|NUnitSeleniumCSharp.csproj|c:\\users\\aaksh\\source\\repos\\nunitseleniumcsharp\\datadriventesting\\testpartusingtestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}|NUnitSeleniumCSharp.csproj|solutionrelative:datadriventesting\\testpartusingtestcase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}|NUnitSeleniumCSharp.csproj|c:\\users\\aaksh\\source\\repos\\nunitseleniumcsharp\\datadriventesting\\testparusingtestcasesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}|NUnitSeleniumCSharp.csproj|solutionrelative:datadriventesting\\testparusingtestcasesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}|NUnitSeleniumCSharp.csproj|c:\\users\\aaksh\\source\\repos\\nunitseleniumcsharp\\datadriventesting\\testparaforlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}|NUnitSeleniumCSharp.csproj|solutionrelative:datadriventesting\\testparaforlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}|NUnitSeleniumCSharp.csproj|c:\\users\\aaksh\\source\\repos\\nunitseleniumcsharp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}|NUnitSeleniumCSharp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}|NUnitSeleniumCSharp.csproj|c:\\users\\aaksh\\source\\repos\\nunitseleniumcsharp\\utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}|NUnitSeleniumCSharp.csproj|solutionrelative:utilities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}|NUnitSeleniumCSharp.csproj|c:\\users\\aaksh\\source\\repos\\nunitseleniumcsharp\\selenium\\webtableassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}|NUnitSeleniumCSharp.csproj|solutionrelative:selenium\\webtableassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestParamExcel.cs",
+              "DocumentMoniker": "C:\\Users\\aaksh\\source\\repos\\NUnitSeleniumCSharp\\DataDrivenTesting\\TestParamExcel.cs",
+              "RelativeDocumentMoniker": "DataDrivenTesting\\TestParamExcel.cs",
+              "ToolTip": "C:\\Users\\aaksh\\source\\repos\\NUnitSeleniumCSharp\\DataDrivenTesting\\TestParamExcel.cs",
+              "RelativeToolTip": "DataDrivenTesting\\TestParamExcel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:10:14.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestParUsingTestCaseSource.cs",
+              "DocumentMoniker": "C:\\Users\\aaksh\\source\\repos\\NUnitSeleniumCSharp\\DataDrivenTesting\\TestParUsingTestCaseSource.cs",
+              "RelativeDocumentMoniker": "DataDrivenTesting\\TestParUsingTestCaseSource.cs",
+              "ToolTip": "C:\\Users\\aaksh\\source\\repos\\NUnitSeleniumCSharp\\DataDrivenTesting\\TestParUsingTestCaseSource.cs",
+              "RelativeToolTip": "DataDrivenTesting\\TestParUsingTestCaseSource.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T06:37:00.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestParaForLogin.cs",
+              "DocumentMoniker": "C:\\Users\\aaksh\\source\\repos\\NUnitSeleniumCSharp\\DataDrivenTesting\\TestParaForLogin.cs",
+              "RelativeDocumentMoniker": "DataDrivenTesting\\TestParaForLogin.cs",
+              "ToolTip": "C:\\Users\\aaksh\\source\\repos\\NUnitSeleniumCSharp\\DataDrivenTesting\\TestParaForLogin.cs",
+              "RelativeToolTip": "DataDrivenTesting\\TestParaForLogin.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:20:20.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestPartUsingTestcase.cs",
+              "DocumentMoniker": "C:\\Users\\aaksh\\source\\repos\\NUnitSeleniumCSharp\\DataDrivenTesting\\TestPartUsingTestcase.cs",
+              "RelativeDocumentMoniker": "DataDrivenTesting\\TestPartUsingTestcase.cs",
+              "ToolTip": "C:\\Users\\aaksh\\source\\repos\\NUnitSeleniumCSharp\\DataDrivenTesting\\TestPartUsingTestcase.cs",
+              "RelativeToolTip": "DataDrivenTesting\\TestPartUsingTestcase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T05:04:51.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\aaksh\\source\\repos\\NUnitSeleniumCSharp\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\aaksh\\source\\repos\\NUnitSeleniumCSharp\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-21T04:46:14.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Base.cs",
+              "DocumentMoniker": "C:\\Users\\aaksh\\source\\repos\\NUnitSeleniumCSharp\\Utilities\\Base.cs",
+              "RelativeDocumentMoniker": "Utilities\\Base.cs",
+              "ToolTip": "C:\\Users\\aaksh\\source\\repos\\NUnitSeleniumCSharp\\Utilities\\Base.cs",
+              "RelativeToolTip": "Utilities\\Base.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T03:54:54.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebTableAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\aaksh\\source\\repos\\NUnitSeleniumCSharp\\Selenium\\WebTableAssignment.cs",
+              "RelativeDocumentMoniker": "Selenium\\WebTableAssignment.cs",
+              "ToolTip": "C:\\Users\\aaksh\\source\\repos\\NUnitSeleniumCSharp\\Selenium\\WebTableAssignment.cs",
+              "RelativeToolTip": "Selenium\\WebTableAssignment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T11:53:31.248Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

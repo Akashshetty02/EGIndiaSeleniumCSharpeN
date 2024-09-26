@@ -1,0 +1,51 @@
+{
+  "uuid": "6f1798b7-ed70-44f2-ad7f-b07cb6098334",
+  "historyId": "29ed6a130b06f29e8507504e6e9c2c3d",
+  "testCaseId": "993c845f01c8ad3b078dbfe66e552b1e",
+  "fullName": "NUnitSeleniumCSharp:NUnitSeleniumCSharp.NUnitTest.PrimeNumberUnitTest.TestForPrime()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOSO4TU0QTD8N"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumCSharp.NUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "TestForPrime"
+    },
+    {
+      "name": "testClass",
+      "value": "PrimeNumberUnitTest"
+    }
+  ],
+  "links": [],
+  "name": "TestForPrime",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "a1e04ba6-73d5-4b27-b8ff-7ebccfe98f2e-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726486275227,
+  "stop": 1726486275228
+}

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUnitSeleniumCSharp", "NUnitSeleniumCSharp.csproj", "{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8F753075-0DFE-4249-B3F0-37B0AA70BFE8}"
+	ProjectSection(SolutionItems) = preProject
+		Calculator.cs = Calculator.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NUnitTest", "NUnitTest", "{23C8FE9F-0503-4D6F-82F9-E02FCF4C10A4}"
+	ProjectSection(SolutionItems) = preProject
+		Calculator.cs = Calculator.cs
+		UnitTest1.cs = UnitTest1.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Selenium", "Selenium", "{73B89FC5-C732-42CE-8BED-FDB2C8E7185B}"
+	ProjectSection(SolutionItems) = preProject
+		Action.cs = Action.cs
+		BrowserCommands.cs = BrowserCommands.cs
+		CalenderPicker.cs = CalenderPicker.cs
+		ClassKeyboardAssignment.cs = ClassKeyboardAssignment.cs
+		ClassWindowAssignment.cs = ClassWindowAssignment.cs
+		DropDown.cs = DropDown.cs
+		IFrameHandling.cs = IFrameHandling.cs
+		OrderProduct.cs = OrderProduct.cs
+		Register.cs = Register.cs
+		SauceDemo.cs = SauceDemo.cs
+		StartBrowser.cs = StartBrowser.cs
+		WebTableAssignment.cs = WebTableAssignment.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE1D8E4-64C7-4872-9FD4-EBCD2D1A8118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{73B89FC5-C732-42CE-8BED-FDB2C8E7185B} = {8F753075-0DFE-4249-B3F0-37B0AA70BFE8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D087F7CF-7B67-4632-8658-DCE47673C6CF}
+	EndGlobalSection
+EndGlobal
